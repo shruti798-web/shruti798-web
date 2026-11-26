@@ -1,15 +1,14 @@
-## About Me
+### welcome!
 
-Hey! I'm Shruti, a Computer Applications graduate who enjoys
-building things with code and exploring the creative side of technology.
+Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I obsess over clean UI/UX and graphic design!
 
-- Interested in Frontend Development and UI/UX Design.
-- Exploring Artificial Intelligence and Machine Learning.
-- Enjoy turning ideas into functional and visually appealing projects.
-- Always curious to learn something new and experiment with technology.
+### about me
 
-Outside of coding, I enjoy graphic design, reading and exploring new technologies.
-
+* i love turning messy ideas into clean, pixel-accurate interfaces
+* always down to talk about design systems or a good book
+* fueled by curiosity, late-night debugging, and open-source rabbit holes
+* reach out to me: [shrutikri798@gmail.com](mailto:shrutikri798@gmail.com)
+* connect with me on [linkedin](https://www.linkedin.com/in/shruti-kumari-29569025b)
 
 
 ## Currently Exploring
