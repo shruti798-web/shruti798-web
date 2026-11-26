@@ -2,7 +2,7 @@
 
 Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I obsess over clean UI/UX and graphic design!
 
-<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/YOUR_GIF_NAME.gif?raw=true" width="280" alt="pixel animation" />
+<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="280" alt="pixel animation" />
 
 ### about me
 
