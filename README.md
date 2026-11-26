@@ -12,7 +12,6 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 * reach out to me: [shrutikri798@gmail.com](mailto:shrutikri798@gmail.com)
 * connect with me on [linkedin](https://www.linkedin.com/in/shruti-kumari-29569025b)
 
-<br clear="right" />
 ## Currently Exploring
 
 - ⚛️ Improving my React and JavaScript skills.
@@ -20,4 +19,6 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 - 🤖 Exploring Machine Learning concepts and practical applications.
 - 💡 Building projects to strengthen my development skills.
 - 🌱 Exploring open-source contributions.
+- 
+<br clear="right" />
 
