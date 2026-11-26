@@ -2,8 +2,6 @@
 
 Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I obsess over clean UI/UX and graphic design!
 
-<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="280" alt="pixel animation" />
-
 ### about me
 
 * i love turning messy ideas into clean, pixel-accurate interfaces
@@ -12,6 +10,8 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 * reach out to me: [shrutikri798@gmail.com](mailto:shrutikri798@gmail.com)
 * connect with me on [linkedin](https://www.linkedin.com/in/shruti-kumari-29569025b)
 
+<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="280" alt="pixel animation" />
+
 ## Currently Exploring
 
 - ⚛️ Improving my React and JavaScript skills.
@@ -19,6 +19,4 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 - 🤖 Exploring Machine Learning concepts and practical applications.
 - 💡 Building projects to strengthen my development skills.
 - 🌱 Exploring open-source contributions.
-- 
-<br clear="right" />
 
