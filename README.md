@@ -1,19 +1,3 @@
-
-## Tech Stack
-
-**Frontend**
-<br/>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&perline=6&size=10)
-
-**Backend & Database**
-<br/>
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6&size=10)
-
-**Programming & Tools**
-<br/>
-![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,figma,postman&perline=6&size=10)
-
-
 ## About Me
 
 Hey! I'm Shruti, a Computer Applications graduate who enjoys
