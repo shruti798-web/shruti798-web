@@ -2,6 +2,10 @@
 
 Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I obsess over clean UI/UX and graphic design!
 
+<table>
+  <tr>
+    <td width="62%" valign="top">
+
 ### about me
 
 * i love turning messy ideas into clean, pixel-accurate interfaces
@@ -10,7 +14,12 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 * reach out to me: [shrutikri798@gmail.com](mailto:shrutikri798@gmail.com)
 * connect with me on [linkedin](https://www.linkedin.com/in/shruti-kumari-29569025b)
 
-
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="100%" alt="pixel art animation" />
+    </td>
+  </tr>
+</table>
 ## Currently Exploring
 
 - ⚛️ Improving my React and JavaScript skills.
