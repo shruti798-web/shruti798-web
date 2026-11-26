@@ -3,15 +3,15 @@
 
 **Frontend**
 <br/>
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&perline=6&size=35)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux&perline=6&size=25)
 
 **Backend & Database**
 <br/>
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6&size=35)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=6&size=25)
 
 **Programming & Tools**
 <br/>
-![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,figma,postman&perline=6&size=35)
+![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,figma,postman&perline=6&size=25)
 
 
 ## About Me
