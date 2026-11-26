@@ -10,9 +10,9 @@ Hey there! I'm Shruti, who loves to build things on the web. Besides coding, I o
 * reach out to me: [shrutikri798@gmail.com](mailto:shrutikri798@gmail.com)
 * connect with me on [linkedin](https://www.linkedin.com/in/shruti-kumari-29569025b)
 
-<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="280" alt="pixel animation" />
+<img align="right" src="https://github.com/shruti798-web/shruti798-web/blob/main/pixel.gif?raw=true" width="300" alt="pixel animation" />
 
-## Currently Exploring
+### Currently Exploring
 
 - ⚛️ Improving my React and JavaScript skills.
 - 🐍 Learning Python for AI/ML development.
